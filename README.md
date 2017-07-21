@@ -13,7 +13,7 @@ collection for the common dataset in my research
   <tr>
     <th class="text-center">Users</th>
     <th class="text-center">Items</th>
-    <th colspan="2" class="text-center" width="100">Ratings (Scale)</th>
+    <th colspan="2" class="text-center">Ratings (Scale)</th>
     <th class="text-center">Density</th>
     <th class="text-center">Users</th>
     <th colspan="2" class="text-center">Links (Type)</th>
@@ -23,7 +23,7 @@ collection for the common dataset in my research
     <td>7,375</td>
     <td>105,114</td>
     <td width="6%">284,086</td>
-    <td width="5%">[1, 5]</td>
+    <td width="10%">[1, 5]</td>
     <td>0.00365%</td>
     <td width="4%">7,375</td>
     <td width="5%">111,781</td>
@@ -34,7 +34,7 @@ collection for the common dataset in my research
     <td>40,163</td>
     <td>139,738</td>
     <td width="6%">664,824</td>
-    <td width="5%">[1, 5]</td>
+    <td width="10%">[1, 5]</td>
     <td>0.0118%</td>
     <td width="4%">49,289</td>
     <td width="5%">487,183</td>

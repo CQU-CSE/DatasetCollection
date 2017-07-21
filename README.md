@@ -13,7 +13,7 @@ collection for the common dataset in my research
   <tr>
     <th class="text-center">Users</th>
     <th class="text-center">Items</th>
-    <th colspan="2" class="text-center">Ratings (Scale)</th>
+    <th colspan="2" class="text-center" width="100">Ratings (Scale)</th>
     <th class="text-center">Density</th>
     <th class="text-center">Users</th>
     <th colspan="2" class="text-center">Links (Type)</th>

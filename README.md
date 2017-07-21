@@ -8,8 +8,7 @@ collection for the common dataset in my research
   <tr>
     <th rowspan="2" scope="col">Data Set</th>
     <th colspan="5" scope="col" class="text-center">Basic Meta</th>
-    <th colspan="3" scope="col" class="text-center">User Context</th>   
-    <th colspan="1" scope="col" class="text-center">Note</th>   
+    <th colspan="3" scope="col" class="text-center">User Context</th> 
     </tr>
   <tr>
     <th class="text-center">Users</th>
@@ -18,10 +17,9 @@ collection for the common dataset in my research
     <th class="text-center">Density</th>
     <th class="text-center">Users</th>
     <th colspan="2" class="text-center">Links (Type)</th>
-    <th class="text-center">Reference</th>
     </tr> 
   <tr>
-    <td><a href="https://pan.baidu.com/s/1qY7Ek0W"><b>Ciao</b></a></td>
+    <td><a href="https://pan.baidu.com/s/1qY7Ek0W"><b>Ciao</b></a> [1]</td>
     <td>7,375</td>
     <td>105,114</td>
     <td width="6%">284,086</td>
@@ -30,10 +28,9 @@ collection for the common dataset in my research
     <td width="4%">7,375</td>
     <td width="5%">111,781</td>
     <td>Trust</td>
-    <td>[1]</td>
     </tr> 
   <tr>
-    <td><a href="http://www.trustlet.org/wiki/Epinions_dataset"><b>Epinions</b></a></td>
+    <td><a href="http://www.trustlet.org/wiki/Epinions_dataset"><b>Epinions</b></a> [2]</td>
     <td>40,163</td>
     <td>139,738</td>
     <td width="6%">664,824</td>
@@ -42,7 +39,6 @@ collection for the common dataset in my research
     <td width="4%">49,289</td>
     <td width="5%">487,183</td>
     <td>Trust</td>
-    <td>[2]</td>
     </tr> 
   </table>
 </div>

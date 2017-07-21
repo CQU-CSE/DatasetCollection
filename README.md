@@ -19,7 +19,7 @@ collection for the common dataset in my research
     <th colspan="2" class="text-center">Links (Type)</th>
     </tr> 
   <tr>
-    <td><a href="https://pan.baidu.com/s/1qY7Ek0W"><b>Ciao</b></a> [1]</td>
+    <td><a href="https://pan.baidu.com/s/1qY7Ek0W" target="_blank"><b>Ciao</b></a> [1]</td>
     <td>7,375</td>
     <td>105,114</td>
     <td width="6%">284,086</td>
@@ -30,7 +30,7 @@ collection for the common dataset in my research
     <td>Trust</td>
     </tr> 
   <tr>
-    <td><a href="http://www.trustlet.org/wiki/Epinions_dataset"><b>Epinions</b></a> [2]</td>
+    <td><a href="http://www.trustlet.org/downloaded_epinions.html" target="_blank"><b>Epinions</b></a> [2]</td>
     <td>40,163</td>
     <td>139,738</td>
     <td width="6%">664,824</td>

@@ -24,7 +24,7 @@ collection for the common dataset in my research
     <td>105,114</td>
     <td width="6%">284,086</td>
     <td width="10%">[1, 5]</td>
-    <td>0.00365%</td>
+    <td>0.0365%</td>
     <td width="4%">7,375</td>
     <td width="5%">111,781</td>
     <td>Trust</td>

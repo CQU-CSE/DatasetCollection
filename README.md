@@ -65,14 +65,14 @@ collection for the common dataset in my research
     <th scope="col" class="text-center"> Introduction </th>
     </tr>
   <tr>
-    <td><a href="http://pan.baidu.com/s/1dF2BzY5"  target="_blank"><b>Twitter</b></a> [4]</td>
+    <td><a href="https://pan.baidu.com/s/1ge6va87"  target="_blank"><b>Twitter</b></a> [4]</td>
     <td>1,295</td>
     <td>355</td>
     <td>The first column is the user class (i.e., 1 for non-spammers and 2 for spammers) and the subsequent columns numbered from 1 to 62 represent the user characteristics.
 </td>
     </tr>
   <tr>
-    <td><a href="http://pan.baidu.com/s/1bHu2uy"  target="_blank"><b>YouTube</b></a> [5]</td>
+    <td><a href="https://pan.baidu.com/s/1sla2IVr"  target="_blank"><b>YouTube</b></a> [5]</td>
     <td>641</td>
     <td>31 (promoter)  157(spammer)</td>
     <td>The first column is the user class (i.e., 1 for promoters, 2 for spammers, and 3 for legitimates) and the subsequent columns numbered from 1 to 60 represent the user characteristics.</td>

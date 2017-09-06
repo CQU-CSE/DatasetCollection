@@ -89,7 +89,7 @@ collection for the common dataset in my research
     <th scope="col" class="text-center"> Introduction </th>
     </tr>
   <tr>
-    <td><a href="https://pan.baidu.com/s/1miR1YWS"  target="_blank"><b>Amazon</b></a> [4]</td>
+    <td><a href="https://pan.baidu.com/s/1miR1YWS"  target="_blank"><b>Amazon</b></a> [6]</td>
     <td>3,118</td>
     <td>1,937</td>
     <td>N/A
@@ -105,3 +105,4 @@ collection for the common dataset in my research
 <p>[3].  G. Zhao, X. Qian, and X. Xie, “User-service rating prediction by exploring social users’ rating behaviors,” IEEE Transactions on Multimedia, vol. 18, no. 3, pp. 496–506, 2016.</p>
 <p>[4]. Benevenuto, F., Magno, G., Rodrigues, T., & Almeida, V.: Detecting spammers on twitter. In: Collaboration, electronic messaging, anti-abuse and spam conference (CEAS). Vol. 6, No. 2010, p. 12. 2010. </p>
 <p>[5]. Benevenuto, F., Rodrigues, T., Almeida, V., Almeida, J., & Gonçalves, M.: Detecting spammers and content promoters in online video social networks. In: Proceedings of the 32nd ACM SIGIR conference on Research and development in information retrieval. pp. 620-627. ACM (2009) </p>
+<p>[6]. Xu, Chang, et al. "Uncovering collusive spammers in Chinese review websites." ACM International Conference on Conference on Information & Knowledge Management ACM, 2013:979-988.</p>

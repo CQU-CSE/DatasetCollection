@@ -79,6 +79,24 @@ collection for the common dataset in my research
     </tr>
   </table>
   </div>
+<h3>Shilling Detection</h3>
+<div>
+ <table class="table table-hover table-bordered">
+  <tr>
+    <th width="15%" scope="col"> Data Set </th>
+    <th width="15%" scope="col"> Non-spammer </th>
+    <th scope="col"> Spammer </th>
+    <th scope="col" class="text-center"> Introduction </th>
+    </tr>
+  <tr>
+    <td><a href="https://pan.baidu.com/s/1miR1YWS"  target="_blank"><b>Amazon</b></a> [4]</td>
+    <td>3,118</td>
+    <td>1,937</td>
+    <td>N/A
+</td>
+    </tr> 
+  </table>
+  </div>
 
 
 <h2>Reference</h2>

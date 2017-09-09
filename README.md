@@ -92,7 +92,8 @@ collection for the common dataset in my research
     <td><a href="https://pan.baidu.com/s/1miR1YWS"  target="_blank"><b>Amazon</b></a> [6]</td>
     <td>3,118</td>
     <td>1,937</td>
-    <td>N/A
+    <td>Colunms in profiles.txt follow this order: userid itemid rating.
+     In labels.txt: 1: spammer  0: normal user
 </td>
     </tr> 
   </table>

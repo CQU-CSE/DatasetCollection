@@ -92,8 +92,17 @@ collection for the common dataset in my research
     <td><a href="https://pan.baidu.com/s/1miR1YWS"  target="_blank"><b>Amazon</b></a> [6]</td>
     <td>3,118</td>
     <td>1,937</td>
-    <td>Colunms in profiles.txt follow this order: userid itemid rating.
-     In labels.txt: 1: spammer  0: normal user
+    <td>Colunms in profiles.txt follow this order: userid itemid rating.</br>
+     In labels.txt: 1: spammer  0: non-spammer
+</td>
+    </tr> 
+     <tr>
+    <td><a href="http://pan.baidu.com/s/1hsCHlxM"  target="_blank"><b>Yelp</b></a> [7]</td>
+    <td>52,815</td>
+    <td>80,466</td>
+    <td>Colunms in yelp.txt follow this order: user_id prod_id rating label date.</br>
+     labels -1: spammer  1:non-spammer</br>
+     I recommend you to filter users who have less than 5 ratings.
 </td>
     </tr> 
   </table>
@@ -107,3 +116,4 @@ collection for the common dataset in my research
 <p>[4]. Benevenuto, F., Magno, G., Rodrigues, T., & Almeida, V.: Detecting spammers on twitter. In: Collaboration, electronic messaging, anti-abuse and spam conference (CEAS). Vol. 6, No. 2010, p. 12. 2010. </p>
 <p>[5]. Benevenuto, F., Rodrigues, T., Almeida, V., Almeida, J., & Gonçalves, M.: Detecting spammers and content promoters in online video social networks. In: Proceedings of the 32nd ACM SIGIR conference on Research and development in information retrieval. pp. 620-627. ACM (2009) </p>
 <p>[6]. Xu, Chang, et al. "Uncovering collusive spammers in Chinese review websites." ACM International Conference on Conference on Information & Knowledge Management ACM, 2013:979-988.</p>
+<p> [7] Rayana, Shebuti, and L. Akoglu. "Collective Opinion Spam Detection: Bridging Review Networks and Metadata." ACM SIGKDD International Conference on Knowledge Discovery and Data Mining ACM, 2015:985-994.

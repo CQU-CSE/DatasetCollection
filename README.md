@@ -101,8 +101,8 @@ collection for the common dataset in my research
     <td>52,815</td>
     <td>80,466</td>
     <td>Colunms in yelp.txt follow this order: user_id prod_id rating label date.</br>
-     labels -1: spammer  1:non-spammer</br>
-     I recommend you to filter users who have less than 5 ratings.
+     labels -1: spammer  1: non-spammer</br>
+     I recommend you to filter users who have less than 5 ratings. *More information can be found in <a href="https://drive.google.com/drive/folders/0B8JIKvhJUvRdfk8yS1E4T0lXUm1uOGtJUmN2cExMTXRmVUpsSGE2OHRzNkdUT0RyMzA4WDA"  target="_blank"><b>More Info</b></a>
 </td>
     </tr> 
   </table>

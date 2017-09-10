@@ -97,7 +97,7 @@ collection for the common dataset in my research
 </td>
     </tr> 
      <tr>
-    <td><a href="http://pan.baidu.com/s/1hsCHlxM"  target="_blank"><b>Yelp</b></a> [7]</td>
+    <td><a href="http://pan.baidu.com/s/1o8Qck4a"  target="_blank"><b>Yelp</b></a> [7]</td>
     <td>52,815</td>
     <td>80,466</td>
     <td>Colunms in yelp.txt follow this order: user_id prod_id rating label date.</br>

@@ -51,6 +51,17 @@ collection for the common dataset in my research
     <td width="5%">35,770</td>
     <td>Trust</td>
     </tr> 
+   <tr>
+    <td><a href="http://files.grouplens.org/datasets/hetrec2011/hetrec2011-lastfm-2k.zip" target="_blank"><b>LastFM</b></a> [8]</td>
+    <td>1,892</td>
+    <td>17,632</td>
+    <td width="6%">92,834</td>
+    <td width="10%">implicit</td>
+    <td>0.27%</td>
+    <td width="4%">1,892</td>
+    <td width="5%">25,434</td>
+    <td>Trust</td>
+    </tr> 
   </table>
 </div>
 
@@ -117,3 +128,5 @@ collection for the common dataset in my research
 <p>[5]. Benevenuto, F., Rodrigues, T., Almeida, V., Almeida, J., & Gonçalves, M.: Detecting spammers and content promoters in online video social networks. In: Proceedings of the 32nd ACM SIGIR conference on Research and development in information retrieval. pp. 620-627. ACM (2009) </p>
 <p>[6]. Xu, Chang, et al. "Uncovering collusive spammers in Chinese review websites." ACM International Conference on Conference on Information & Knowledge Management ACM, 2013:979-988.</p>
 <p> [7] Rayana, Shebuti, and L. Akoglu. "Collective Opinion Spam Detection: Bridging Review Networks and Metadata." ACM SIGKDD International Conference on Knowledge Discovery and Data Mining ACM, 2015:985-994.
+ <p> [8] Iván Cantador, Peter Brusilovsky, and Tsvi Kuflik. 2011. 2nd Workshop on Information Heterogeneity and Fusion in Recom-
+mender Systems (HetRec 2011). In Proceedings of the 5th ACM conference on Recommender systems (RecSys 2011). ACM, New York, NY, USA

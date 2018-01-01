@@ -2,7 +2,7 @@
 collection for the common dataset in my research
 
 <h2>Recommender systems</h2>
-<h3>Social Recommendations</h3>
+<h3>Social Recommendation</h3>
 <div>
  <table class="table table-hover table-bordered">
   <tr>
@@ -62,6 +62,37 @@ collection for the common dataset in my research
     <td width="5%">25,434</td>
     <td>Trust</td>
     </tr> 
+  </table>
+</div>
+
+<h3>Music Recommendation</h3>
+<div>
+ <table class="table table-hover table-bordered">
+  <tr>
+    <th rowspan="2" scope="col">Data Set</th>
+    <th colspan="5" scope="col" class="text-center">Basic Meta</th>
+    <th colspan="3" scope="col" class="text-center">Context</th> 
+    </tr>
+  <tr>
+    <th class="text-center">Users</th>
+    <th class="text-center">Tracks</th>
+    <th class="text-center">Artists</th>
+    <th class="text-center">Record</th>
+    <th class="text-center"></th>
+    <th class="text-center"></th>
+    <th class="text-center"></th>
+    </tr> 
+  <tr>
+    <td><a href="https://pan.baidu.com/s/1slr64rj" target="_blank"><b>NowPlaying</b></a> [9]</td>
+    <td>1,744</td>
+    <td>16,864</td>
+    <td>2,108</td>
+    <td>1,117,335</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>  
   </table>
 </div>
 

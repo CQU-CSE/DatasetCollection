@@ -70,27 +70,29 @@ collection for the common dataset in my research
  <table class="table table-hover table-bordered">
   <tr>
     <th rowspan="2" scope="col">Data Set</th>
-    <th colspan="4" scope="col" class="text-center">Basic Meta</th>
+    <th colspan="5" scope="col" class="text-center">Basic Meta</th>
     <th colspan="3" scope="col" class="text-center">Context</th> 
     </tr>
   <tr>
     <th class="text-center">Users</th>
     <th class="text-center">Tracks</th>
-    <th class="text-center">Artists</th>
-    <th class="text-center">Record</th>
-    <th class="text-center"></th>
-    <th class="text-center"></th>
-    <th class="text-center"></th>
+    <th class="text-center">Artists</th>    
+    <th class="text-center">Albums</th>
+   <th class="text-center">Record</th>
+    <th class="text-center">Tag</th>
+    <th class="text-center">User Profile</th>
+   <th class="text-center">Artist Profile</th>
     </tr> 
   <tr>
     <td><a href="https://pan.baidu.com/s/1slr64rj" target="_blank"><b>NowPlaying</b></a> [9]</td>
     <td>1,744</td>
     <td>16,864</td>
     <td>2,108</td>
+   <td>N/A</td>
     <td>1,117,335</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>N/A</td>
     </tr>  
   </table>
 </div>

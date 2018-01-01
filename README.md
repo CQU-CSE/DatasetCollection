@@ -70,7 +70,7 @@ collection for the common dataset in my research
  <table class="table table-hover table-bordered">
   <tr>
     <th rowspan="2" scope="col">Data Set</th>
-    <th colspan="5" scope="col" class="text-center">Basic Meta</th>
+    <th colspan="4" scope="col" class="text-center">Basic Meta</th>
     <th colspan="3" scope="col" class="text-center">Context</th> 
     </tr>
   <tr>
@@ -88,7 +88,6 @@ collection for the common dataset in my research
     <td>16,864</td>
     <td>2,108</td>
     <td>1,117,335</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -158,6 +157,7 @@ collection for the common dataset in my research
 <p>[4]. Benevenuto, F., Magno, G., Rodrigues, T., & Almeida, V.: Detecting spammers on twitter. In: Collaboration, electronic messaging, anti-abuse and spam conference (CEAS). Vol. 6, No. 2010, p. 12. 2010. </p>
 <p>[5]. Benevenuto, F., Rodrigues, T., Almeida, V., Almeida, J., & Gonçalves, M.: Detecting spammers and content promoters in online video social networks. In: Proceedings of the 32nd ACM SIGIR conference on Research and development in information retrieval. pp. 620-627. ACM (2009) </p>
 <p>[6]. Xu, Chang, et al. "Uncovering collusive spammers in Chinese review websites." ACM International Conference on Conference on Information & Knowledge Management ACM, 2013:979-988.</p>
-<p> [7] Rayana, Shebuti, and L. Akoglu. "Collective Opinion Spam Detection: Bridging Review Networks and Metadata." ACM SIGKDD International Conference on Knowledge Discovery and Data Mining ACM, 2015:985-994.
- <p> [8] Iván Cantador, Peter Brusilovsky, and Tsvi Kuflik. 2011. 2nd Workshop on Information Heterogeneity and Fusion in Recom-
+<p> [7]. Rayana, Shebuti, and L. Akoglu. "Collective Opinion Spam Detection: Bridging Review Networks and Metadata." ACM SIGKDD International Conference on Knowledge Discovery and Data Mining ACM, 2015:985-994.
+ <p> [8]. Iván Cantador, Peter Brusilovsky, and Tsvi Kuflik. 2011. 2nd Workshop on Information Heterogeneity and Fusion in Recom-
 mender Systems (HetRec 2011). In Proceedings of the 5th ACM conference on Recommender systems (RecSys 2011). ACM, New York, NY, USA
+<p> [9]. Eva Zangerle, Martin Pichl, Wolfgang Gassler, and Günther Specht. 2014. #nowplaying Music Dataset: Extracting Listening Behavior from Twitter. In Proceedings of the First International Workshop on Internet-Scale Multimedia Management (WISMM '14). ACM, New York, NY, USA, 21-26 

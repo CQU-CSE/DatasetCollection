@@ -93,7 +93,18 @@ collection for the common dataset in my research
     <td>N/A</td>
     <td>N/A</td>
     <td>N/A</td>
-    </tr>  
+   </tr>  
+   <tr>
+    <td><a href="https://pan.baidu.com/s/1dEBXClV" target="_blank"><b>Xiami</b></a> [10]</td>
+    <td>4,270</td>
+    <td>177,289</td>
+    <td>25,844</td>
+   <td>68,479</td>
+    <td>1,337,948</td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>N/A</td>
+   </tr>  
   </table>
 </div>
 
@@ -163,3 +174,4 @@ collection for the common dataset in my research
  <p> [8]. Iván Cantador, Peter Brusilovsky, and Tsvi Kuflik. 2011. 2nd Workshop on Information Heterogeneity and Fusion in Recom-
 mender Systems (HetRec 2011). In Proceedings of the 5th ACM conference on Recommender systems (RecSys 2011). ACM, New York, NY, USA
 <p> [9]. Eva Zangerle, Martin Pichl, Wolfgang Gassler, and Günther Specht. 2014. #nowplaying Music Dataset: Extracting Listening Behavior from Twitter. In Proceedings of the First International Workshop on Internet-Scale Multimedia Management (WISMM '14). ACM, New York, NY, USA, 21-26 </p>
+<p> [10]. Wang, Dongjing, et al. "Learning music embedding with metadata for context aware recommendation." Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval. ACM, 2016.</p>

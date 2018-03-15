@@ -130,7 +130,7 @@ collection for the common dataset in my research
     <td>134,860</td>
     <td>52,946</td>
    <td>full abstract</td>
-   </tr  
+  </tr> 
 
   </table>
 </div>

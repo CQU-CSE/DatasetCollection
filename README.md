@@ -108,6 +108,33 @@ collection for the common dataset in my research
   </table>
 </div>
 
+<h3>Paper Recommendation</h3>
+<div>
+ <table class="table table-hover table-bordered">
+  <tr>
+    <th rowspan="2" scope="col">Data Set</th>
+    <th colspan="3" scope="col" class="text-center">Basic Meta</th>
+    <th colspan="3" scope="col" class="text-center">Context</th> 
+    </tr>
+  <tr>
+    <th class="text-center">Users</th>
+    <th class="text-center">Papers</th>
+    <th class="text-center">FeedBack</th>  
+    <th class="text-center">Tag</th>
+    <th class="text-center">Content</th>
+    </tr> 
+  <tr>
+    <td><a href="http://cs.nju.edu.cn/lwj/data/ctrsr_datasets.rar" target="_blank"><b>NowPlaying</b></a> [9]</td>
+    <td>7,947</td>
+    <td>25,975</td>
+    <td>134,860</td>
+    <td>52,946</td>
+   <td>full abstract</td>
+   </tr  
+
+  </table>
+</div>
+
 <h2>Spammer detection</h2>
 <h3>Social Network</h3>
 <div>

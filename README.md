@@ -124,7 +124,7 @@ collection for the common dataset in my research
     <th class="text-center">Content</th>
     </tr> 
   <tr>
-    <td><a href="http://cs.nju.edu.cn/lwj/data/ctrsr_datasets.rar" target="_blank"><b>NowPlaying</b></a> [9]</td>
+    <td><a href="http://cs.nju.edu.cn/lwj/data/ctrsr_datasets.rar" target="_blank"><b>CiteULike</b></a> [11]</td>
     <td>7,947</td>
     <td>25,975</td>
     <td>134,860</td>
@@ -202,3 +202,4 @@ collection for the common dataset in my research
 mender Systems (HetRec 2011). In Proceedings of the 5th ACM conference on Recommender systems (RecSys 2011). ACM, New York, NY, USA
 <p> [9]. Eva Zangerle, Martin Pichl, Wolfgang Gassler, and Günther Specht. 2014. #nowplaying Music Dataset: Extracting Listening Behavior from Twitter. In Proceedings of the First International Workshop on Internet-Scale Multimedia Management (WISMM '14). ACM, New York, NY, USA, 21-26 </p>
 <p> [10]. Wang, Dongjing, et al. "Learning music embedding with metadata for context aware recommendation." Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval. ACM, 2016.</p>
+<p> [11]. Hao Wang*, Wu-Jun Li, Relational collaborative topic regression for recommender systems. IEEE Transactions on Knowledge and Data Engineering (TKDE), 27(5): 1343-1355, 2015. </p>

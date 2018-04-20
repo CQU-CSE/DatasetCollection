@@ -150,7 +150,7 @@ collection for the common dataset in my research
     <th class="text-center">Time</th>
     </tr> 
   <tr>
-    <td><a href="http://cs.nju.edu.cn/lwj/data/ctrsr_datasets.rar" target="_blank"><b>CiteULike</b></a> [11]</td>
+    <td><a href="https://pan.baidu.com/s/1nANByxybj0GGGvG_tIR2mg" target="_blank"><b>Gowalla</b></a> </td>
     <td>18,737</td>
     <td>32,510</td>
     <td>1,278,274</td>

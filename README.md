@@ -133,6 +133,33 @@ collection for the common dataset in my research
   </tr> 
 
   </table>
+  
+  <h3>Location Recommendation</h3>
+<div>
+ <table class="table table-hover table-bordered">
+  <tr>
+    <th rowspan="2" scope="col">Data Set</th>
+    <th colspan="3" scope="col" class="text-center">Basic Meta</th>
+    <th colspan="3" scope="col" class="text-center">Context</th> 
+    </tr>
+  <tr>
+    <th class="text-center">Users</th>
+    <th class="text-center">Locations</th>
+    <th class="text-center">FeedBack</th>  
+    <th class="text-center">relation</th>
+    <th class="text-center">Time</th>
+    </tr> 
+  <tr>
+    <td><a href="http://cs.nju.edu.cn/lwj/data/ctrsr_datasets.rar" target="_blank"><b>CiteULike</b></a> [11]</td>
+    <td>18,737</td>
+    <td>32,510</td>
+    <td>1,278,274</td>
+    <td>Yes</td>
+   <td>Yes</td>
+  </tr> 
+
+  </table>
+  
 </div>
 
 <h2>Spammer detection</h2>

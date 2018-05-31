@@ -1,5 +1,5 @@
 # DatasetCollection
-collection for the common dataset in my research
+Common datasets used in our research
 
 <h2>Recommender systems</h2>
 <h3>Social Recommendation</h3>

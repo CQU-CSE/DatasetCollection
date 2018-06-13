@@ -95,13 +95,13 @@ Common datasets used in our research
     <td>N/A</td>
    </tr>  
    <tr>
-    <td><a href="https://pan.baidu.com/s/1dEBXClV" target="_blank"><b>Xiami</b></a> [10]</td>
-    <td>4,270</td>
-    <td>177,289</td>
-    <td>25,844</td>
-   <td>68,479</td>
-    <td>1,337,948</td>
-    <td>N/A</td>
+    <td><a href="https://pan.baidu.com/s/1LUwzIM95_9WODpfg0qVsoA" target="_blank"><b>Xiami</b></a> [10]</td>
+    <td>4,284</td>
+    <td>1,589,209</td>
+    <td>1,302,128</td>
+    <td>1,588,511</td>
+    <td>1,589,209</td>
+    <td>Yes</td>
     <td>N/A</td>
     <td>N/A</td>
    </tr>  

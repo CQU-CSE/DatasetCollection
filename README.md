@@ -106,7 +106,7 @@ Common datasets used in our research
     <td>N/A</td>
    </tr>  
      <tr>
-    <td><a href="https://pan.baidu.com/s/1ZhvrKIjdST2buaA_RkF3hA" target="_blank"><b>Yahoo Music</b></a> <a href="https://webscope.sandbox.yahoo.com/catalog.php?datatype=r">[source]</a></td>
+    <td><a href="https://pan.baidu.com/s/108N0J-KVmivTqlt3ob8Xfw" target="_blank"><b>Yahoo Music</b></a> <a href="https://webscope.sandbox.yahoo.com/catalog.php?datatype=r">[source]</a></td>
     <td>1,800,000</td>
     <td>136,000</td>
     <td>many</td>

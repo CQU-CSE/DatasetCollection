@@ -198,8 +198,7 @@ Common datasets used in our research
     <td><a href="https://pan.baidu.com/s/1ge6va87"  target="_blank"><b>Twitter</b></a> [4]</td>
     <td>1,295</td>
     <td>355</td>
-    <td>The first column is the user class (i.e., 1 for non-spammers and 2 for spammers) and the subsequent columns numbered from 1 to 62 represent the user characteristics.
-</td>
+    <td>The first column is the user class (i.e., 1 for non-spammers and 2 for spammers) and the subsequent columns numbered from 1 to 62 represent the user characteristics.</td>
     </tr>
   <tr>
     <td><a href="https://pan.baidu.com/s/1sla2IVr"  target="_blank"><b>YouTube</b></a> [5]</td>
@@ -238,6 +237,116 @@ Common datasets used in our research
   </table>
   </div>
 
+<h3>Cyberbullying Detection</h3>
+<div>
+ <table class="table table-hover table-bordered">
+  <tr>
+    <th scope="col"> Data Set </th>
+    <th scope="col"> Year </th>
+    <th scope="col"> Annotated method</th>
+    <th scope="col"> # Data</th>
+    <th scope="col"> # Cyberbullying </th>
+    <th scope="col"> Cyberbullying Ratio</th>
+    </tr>
+  <tr>
+    <td><a href="http://www.chatcoder.com/drupal/DataDownload"  target="_blank"><b>Formspring</b></a> [13]</td>
+    <td>2010</td>
+    <td>Crowdsourcing</td>
+    <td>3,915</td>
+    <td>369</td>
+    <td>9.43%</td>
+    </tr>
+  <tr>
+    <td><a href="http://www.chatcoder.com/drupal/DataDownload"  target="_blank"><b>MySpace</b></a> [14]</td>
+    <td>2011</td>
+    <td>Expert Labeling</td>
+    <td>2,088</td>
+    <td>434</td>
+    <td>20.79%</td>
+    </tr>
+ <tr>
+    <td><a href="https://sites.google.com/site/cucybersafety/home/cyberbullying-detection-project/dataset"  target="_blank"><b>Ask.fm</b></a> [15]</td>
+    <td>2014</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+ <tr>
+    <td><a href="https://sites.google.com/site/cucybersafety/home/cyberbullying-detection-project/dataset"  target="_blank"><b>Instagram</b></a> [16]</td>
+    <td>2014</td>
+    <td>Crowdsourcing</td>
+    <td>1,954</td>
+    <td>567</td>
+    <td>29%</td>
+    </tr>
+ <tr>
+    <td><a href="https://sites.google.com/site/cucybersafety/home/cyberbullying-detection-project/dataset"  target="_blank"><b>Vine</b></a> [17]</td>
+    <td>2015</td>
+    <td>Crowdsourcing</td>
+    <td>971</td>
+    <td>304</td>
+    <td>31.34%</td>
+    </tr>
+ <tr>
+    <td><a href="http://research.cs.wisc.edu/bullying/data.html"  target="_blank"><b>BullyingV3.0</b></a> [18]</td>
+    <td>2015</td>
+    <td>Label Algorithm</td>
+    <td>7,321</td>
+    <td>2,102</td>
+    <td>28.71%</td>
+    </tr>
+ <tr>
+    <td><a href="http://www.ub-web.de/research/index.html"  target="_blank"><b>WOW</b></a> [19]</td>
+    <td>2016</td>
+    <td>Expert Labeling</td>
+    <td>16,975</td>
+    <td>137</td>
+    <td>0.81%</td>
+    </tr>
+ <tr>
+    <td><a href="http://www.ub-web.de/research/index.html"  target="_blank"><b>LOL</b></a> [19]</td>
+    <td>2016</td>
+    <td>Expert Labeling</td>
+    <td>17,354</td>
+    <td>207</td>
+    <td>1.19%</td>
+    </tr>
+ <tr>
+    <td><b>Twitter</b></a> [20]</td>
+    <td>2017</td>
+    <td>Crowdsourcing</td>
+    <td>1,303</td>
+    <td>58</td>
+    <td>4.45%</td>
+    </tr>
+ <tr>
+    <td><b>Wikipedia</b></a> [21]</td>
+    <td>2017</td>
+    <td>Crowdsourcing</td>
+    <td>37,611</td>
+    <td>338</td>
+    <td>0.9%</td>
+    </tr>
+ <tr>
+    <td><a href="https://github.com/Mrezvan94/Harassment-Corpus"  target="_blank"><b>Harassment-Corpus</b></a> [22]</td>
+    <td>2018</td>
+    <td>Expert Labeling</td>
+    <td>24,189</td>
+    <td>3,119</td>
+    <td>12.89%</td>
+    </tr>
+ <tr>
+    <td><a href="https://github.com/ENCASEH2020/hatespeech-twitter"  target="_blank"><b>Hate and Abusive Speech</b></a> [23]</td>
+    <td>2018</td>
+    <td>Crowdsourcing</td>
+    <td>99,799</td>
+    <td>46,009</td>
+    <td>46.1%</td>
+    </tr>
+</table>
+</div>
+
 
 <h2>Reference</h2>
 <p>[1]. Tang, J., Gao, H., Liu, H.: mtrust:discerning multi-faceted trust in a connected world. In: International Conference on Web Search and Web Data Mining, WSDM 2012, Seattle, Wa, Usa, February. pp. 93–102 (2012)</p>
@@ -253,3 +362,14 @@ mender Systems (HetRec 2011). In Proceedings of the 5th ACM conference on Recomm
 <p> [10]. Wang, Dongjing, et al. "Learning music embedding with metadata for context aware recommendation." Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval. ACM, 2016.</p>
 <p> [11]. Turrin R, Quadrana M, Condorelli A, et al. 30Music Listening and Playlists Dataset[C]//RecSys Posters. 2015. </p>
 <p> [12]. Hao Wang*, Wu-Jun Li, Relational collaborative topic regression for recommender systems. IEEE Transactions on Knowledge and Data Engineering (TKDE), 27(5): 1343-1355, 2015. </p>
+<p> [13].	Reynolds K, Kontostathis A, Edwards L. Using machine learning to detect cyberbullying. Machine learning and applications and workshops (ICMLA), 2011 10th International Conference on. IEEE, 2011, 2: 241-244.</p>
+<p> [14]. Bayzick J, Kontostathis A, Edwards L. Detecting the presence of cyberbullying using computer software. In 3rd Annual ACM Web Science Conference (WebSci ‘11). 2011: 1-2.</p>
+<p> [15].	Hosseinmardi H, Ghasemianlangroodi A, Han R, et al. Towards understanding cyberbullying behavior in a semi-anonymous social network. Advances in Social Networks Analysis and Mining (ASONAM), 2014 IEEE/ACM International Conference on. IEEE, 2014: 244-252. </p>
+<p>[16]. Hosseinmardi H, Mattson S A, Rafiq R I, et al. Analyzing labeled cyberbullying incidents on the Instagram social network. International Conference on Social Informatics. Springer, Cham, 2015: 49-66.</p>
+<p>[17]. Rafiq R I, Hosseinmardi H, Han R, et al. Careful what you share in six seconds: Detecting cyberbullying instances in Vine. Proceedings of the 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2015. ACM, 2015: 617-622.</p>
+<p>[18]. Sui J. Understanding and fighting bullying with machine learning[D]. The University of Wisconsin-Madison, 2015.</p>
+<p>[19]. Bretschneider U, Peters R. Detecting Cyberbullying in Online Communities. ECIS. 2016: ResearchPaper61. </p>
+<p>[20]. Chatzakou D, Kourtellis N, Blackburn J, et al. Mean birds: Detecting aggression and bullying on twitter. Proceedings of the 2017 ACM on web science conference. ACM, 2017: 13-22. </p>
+<p>[21]. Wulczyn E, Thain N, Dixon L. Ex machina: Personal attacks seen at scale. Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017: 1391-1399.</p>
+<p>[22]. Rezvan M, Shekarpour S, Balasuriya L, et al. A Quality Type-aware Annotated Corpus and Lexicon for Harassment Research. Proceedings of the 10th ACM Conference on Web Science. ACM, 2018: 33-36. </p>
+<p>[23]. Founta A-M, Djouvas C, Chatzakou D, et al. Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior. Proceedings of the 11th International Conference on Web and Social Media, ICWSM, 2018. </p>

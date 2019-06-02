@@ -218,7 +218,7 @@ Common datasets used in our research
     <th scope="col" class="text-center"> Introduction </th>
     </tr>
   <tr>
-    <td><a href="https://pan.baidu.com/s/1miR1YWS"  target="_blank"><b>Amazon</b></a> [6]</td>
+    <td><a href="https://pan.baidu.com/s/1ii3mYzJure7e8r2KIymORg"  target="_blank"><b>Amazon</b></a> [6]</td>
     <td>3,118</td>
     <td>1,937</td>
     <td>Colunms in profiles.txt follow this order: userid itemid rating.</br>
@@ -226,7 +226,7 @@ Common datasets used in our research
 </td>
     </tr> 
      <tr>
-    <td><a href="http://pan.baidu.com/s/1o8Qck4a"  target="_blank"><b>Yelp</b></a> [7]</td>
+    <td><a href="https://pan.baidu.com/s/16ubdnKXbV-Mz_uETiCZERg"  target="_blank"><b>Yelp</b></a> [7]</td>
     <td>52,815</td>
     <td>80,466</td>
     <td>Colunms in yelp.txt follow this order: user_id prod_id rating label date.</br>

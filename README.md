@@ -199,7 +199,7 @@ Common datasets used in our research
     </tr> 
 
   <tr>
-    <td><a href="https://pan.baidu.com/s/1jsIn37SZspFaynuFBvdPag" target="_blank"><b>Taobao(Extraction code: xv8o)[24, 25]</b></a> </td>
+    <td><a href="https://pan.baidu.com/s/1jsIn37SZspFaynuFBvdPag" target="_blank"><b>Taobao</b></a>(Extraction code: xv8o)[24, 25] </td>
     <td>987,994</td>
     <td>4,162,024</td>
     <td>9,439</td>

@@ -179,9 +179,34 @@ Common datasets used in our research
     <td>Yes</td>
    <td>Yes</td>
   </tr> 
-
   </table>
-  
+</div>
+
+<h3>Product Recommendation</h3>
+<div>
+ <table class="table table-hover table-bordered">
+  <tr>
+    <th rowspan="2" scope="col">Data Set</th>
+    <th colspan="3" scope="col" class="text-center">Basic Meta</th>
+    <th colspan="3" scope="col" class="text-center">Context</th> 
+    </tr>
+  <tr>
+    <th class="text-center">Users</th>
+    <th class="text-center">Items</th>
+    <th class="text-center">Category</th>  
+    <th class="text-center">Behavior Type</th>
+    <th class="text-center">Time</th>
+    </tr> 
+
+  <tr>
+    <td><a href="https://pan.baidu.com/s/1jsIn37SZspFaynuFBvdPag" target="_blank"><b>Taobao(Extraction code: xv8o)[24, 25]</b></a> </td>
+    <td>987,994</td>
+    <td>4,162,024</td>
+    <td>9,439</td>
+    <td>5</td>
+   <td>Yes</td>
+  </tr> 
+  </table>
 </div>
 
 <h2>Spammer detection</h2>
@@ -373,3 +398,6 @@ mender Systems (HetRec 2011). In Proceedings of the 5th ACM conference on Recomm
 <p>[21]. Wulczyn E, Thain N, Dixon L. Ex machina: Personal attacks seen at scale. Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017: 1391-1399.</p>
 <p>[22]. Rezvan M, Shekarpour S, Balasuriya L, et al. A Quality Type-aware Annotated Corpus and Lexicon for Harassment Research. Proceedings of the 10th ACM Conference on Web Science. ACM, 2018: 33-36. </p>
 <p>[23]. Founta A-M, Djouvas C, Chatzakou D, et al. Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior. Proceedings of the 11th International Conference on Web and Social Media, ICWSM, 2018. </p>
+<p>[24]. Han Z, Xiang L, Pengye Z, et al. Learning Tree-based Deep Model for Recommender Systems. In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. </p>
+<p>[25]. Han Z, Daqing C, Ziru X, et al. Joint Optimization of Tree-based Index and Deep Model for Recommender Systems. arXiv:1902.07565. </p>
+<p>[26]. Han Z, Daqing C, Ziru X, et al. Joint Optimization of Tree-based Index and Deep Model for Recommender Systems. arXiv:1902.07565. </p>
